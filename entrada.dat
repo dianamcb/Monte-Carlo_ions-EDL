@@ -1,0 +1,13 @@
+pasos: 1000000000
+termalizacion: 400000
+actualizacion: 200000
+inmovilidad: 10
+valencias(v+,v-): 3, -1
+concentracion(M/lt): 0.167
+temperatura(k): 300
+permitividad dielectrica relativa: 78.5
+densidad de carga(uC/cm^2): 24
+diametro(nm): 0.96
+diametro reducido(fraccion del diametro): 1
+(w,l)(diametros): 7, 15
+dx, dy, dz: 1, 1, 1
